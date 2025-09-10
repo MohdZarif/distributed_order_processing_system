@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go cache & build artifacts
+/bin/
+/obj/
+/vendor/
+/coverage.out
+
+# IDE files
+.idea/
+.vscode/
